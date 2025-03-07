@@ -14,5 +14,51 @@
 			{"lat": -63.773, "lng": -30.341},
 			{"lat": -63.500, "lng": -30.506}
 		]
+	},
+	{
+		"title": "Maldini's Pizzeria",
+		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -65.419, "lng": -33.103},
+			{"lat": -65.419, "lng": -31.476},
+			{"lat": -66.087, "lng": -31.476},
+			{"lat": -66.087, "lng": -33.103}
+		]
+	},
+	{
+		"title": "Green Wonderland",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "329930",
+		"fillcolor": "329930",
+		"latlngarray": [
+			{"lat": -68.677, "lng": -32.843},
+			{"lat": -68.701, "lng": -31.986},
+			{"lat": -68.951, "lng": -31.898},
+			{"lat": -68.967, "lng": -32.854}
+		]
+	},
+	{
+		"title": "Burger Shot",
+		"notes": "Burger Shot is a chain of fast-food restaurants specializing in hamburgers. Burger Shot is the food of choice in Los Santos. The company offers many delicious menu items and is owned by Dean Watson with Shelly Smith as CEO and Cassie Cupcake as COO.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF7A00",
+		"fillcolor": "FF7A00",
+		"latlngarray": [
+			{"lat": -66.046, "lng": -50.898},
+			{"lat": -65.492, "lng": -48.888},
+			{"lat": -66.322, "lng": -47.603},
+			{"lat": -66.828, "lng": -49.767}
+		],
+		"video": {
+			"yt_id": "O2zQEGiqtxk",
+			"yt_user_display": "c/tongys"
+		}
 	}
 ]

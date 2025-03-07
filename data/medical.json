@@ -40,5 +40,32 @@
 			{"lat": 76.028, "lng": -21.571},
 			{"lat": 75.868, "lng": -22.142}
 		]
+	},
+	{
+		"title": "Rockford Fire Department HQ",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -54.272, "lng": -34.500},
+			{"lat": -54.908, "lng": -33.665},
+			{"lat": -54.208, "lng": -32.105}
+		]
+	},
+	{
+		"title": "Sandy shores Fire Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 38.188, "lng": 33.001},
+			{"lat": 38.464, "lng": 34.275},
+			{"lat": 37.989, "lng": 34.737},
+			{"lat": 37.529, "lng": 33.660}
+		]
 	}
 ]

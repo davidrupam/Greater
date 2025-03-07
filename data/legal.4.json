@@ -7,16 +7,10 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
-			{"lat": -65.418, "lng": -48.595},
-			{"lat": -64.592, "lng": -46.244},
-			{"lat": -64.802, "lng": -45.643},
-			{"lat": -64.917, "lng": -45.028},
-			{"lat": -64.992, "lng": -44.478},
-			{"lat": -65.117, "lng": -43.939},
-			{"lat": -65.452, "lng": -44.423},
-			{"lat": -65.648, "lng": -44.786},
-			{"lat": -65.873, "lng": -45.632},
-			{"lat": -66.274, "lng": -47.214}
+			{"lat": -67.496, "lng": -62.470},
+			{"lat": -67.310, "lng": -62.009},
+			{"lat": -67.513, "lng": -61.459},
+			{"lat": -67.722, "lng": -62.009}
 		]
 	},
 	{
@@ -33,24 +27,35 @@
 		]
 	},
 	{
-		"title": "Impound Lot",
+		"title": "Davis Impound Lot",
 		"notes": "Where cars go when they get impounded.",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
+		"strokecolor": "FF7A00",
+		"fillcolor": "FF7A00",
 		"latlngarray": [
-			{"lat": -70.814, "lng": -22.400},
-			{"lat": -71.398, "lng": -22.444},
-			{"lat": -71.384, "lng": -21.818},
-			{"lat": -71.433, "lng": -21.466},
-			{"lat": -71.108, "lng": -19.873},
-			{"lat": -70.800, "lng": -20.434}
+			{"lat": -73.067, "lng": -3.194},
+			{"lat": -73.347, "lng": -2.051},
+			{"lat": -73.553, "lng": -2.776},
+			{"lat": -73.315, "lng": -3.985}
+		]
+	},
+	{
+		"title": "PDM Impound Lot",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF7A00",
+		"fillcolor": "FF7A00",
+		"latlngarray": [
+			{"lat": -68.856, "lng": -22.306},
+			{"lat": -69.077, "lng": -22.306},
+			{"lat": -69.116, "lng": -18.417},
+			{"lat": -68.825, "lng": -18.373}
 		]
 	},
 	{
 		"title": "Mission Row PD",
-		"notes": "The Los Santos Police Department, along with the Sheriff's Office, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -63,8 +68,8 @@
 	},
 	{
 		"title": "PBSO",
-		"notes": "Paleto Bay Sheriff's Office headquarters.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
+		"notes": "Paleto Bay Sheriff's Office.",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -81,9 +86,9 @@
 		]
 	},
 	{
-		"title": "SDSO",
-		"notes": "The Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"title": "Sandy Sheriff's Station",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -95,19 +100,48 @@
 		]
 	},
 	{
-		"title": "The Courthouse",
+		"title": "Rockford Hills Police Department",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
-			{"lat": -72.999, "lng": -8.914},
-			{"lat": -74.103, "lng": -4.343},
-			{"lat": -73.574, "lng": -2.772},
-			{"lat": -73.073, "lng": -5.222},
-			{"lat": -72.747, "lng": -4.497},
-			{"lat": -72.438, "lng": -5.673}
+			{"lat": -54.927, "lng": -33.644},
+			{"lat": -55.937, "lng": -32.897},
+			{"lat": -55.298, "lng": -30.117},
+			{"lat": -54.598, "lng": -30.733},
+			{"lat": -54.240, "lng": -31.908}
+		]
+	},
+	{
+		"title": "FIB HQ",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -59.420, "lng": 54.159},
+			{"lat": -56.966, "lng": 56.071},
+			{"lat": -57.654, "lng": 59.938},
+			{"lat": -60.433, "lng": 60.070},
+			{"lat": -61.562, "lng": 60.443},
+			{"lat": -62.132, "lng": 58.905}
+		]
+	},
+	{
+		"title": "City Hall & The Courthouse",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -56.162, "lng": -32.634},
+			{"lat": -55.471, "lng": -29.887},
+			{"lat": -57.045, "lng": -28.261},
+			{"lat": -57.708, "lng": -31.096}
 		]
 	}
 ]
