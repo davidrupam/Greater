@@ -1,34 +1,36 @@
 [
 	{
-		"title": "Fleeca Bank 1",
+		"title": "Legion Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": 16.073, "lng": 18.341},
-			{"lat": 16.073, "lng": 20.179},
-			{"lat": 14.999, "lng": 20.179},
-			{"lat": 14.999, "lng": 18.341}
+			{"lat": -67.647, "lng": -10.284},
+			{"lat": -67.772, "lng": -9.350},
+			{"lat": -68.090, "lng": -9.427},
+			{"lat": -68.090, "lng": -9.844},
+			{"lat": -67.964, "lng": -9.897},
+			{"lat": -67.881, "lng": -10.490}
 		]
 	},
 	{
-		"title": "Fleeca Bank 2",
+		"title": "PinK Cage Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": -45.449, "lng": -101.214},
-			{"lat": -45.491, "lng": -100.449},
-			{"lat": -46.043, "lng": -100.531},
-			{"lat": -45.983, "lng": -101.288}
+			{"lat": -57.469, "lng": -6.186},
+			{"lat": -57.634, "lng": -5.384},
+			{"lat": -58.264, "lng": -5.867},
+			{"lat": -58.131, "lng": -6.636}
 		]
 	},
 	{
-		"title": "Fleeca Bank 3",
+		"title": "Hawick Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
 		"wiki_link": "",
 		"order": 0,
@@ -46,7 +48,7 @@
 	{
 		"title": "Paleto Bank",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -58,40 +60,51 @@
 		]
 	},
 	{
-		"title": "Bay City Bank",
+		"title": "Life Invader Bank",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": -65.062, "lng": -53.673},
-			{"lat": -64.750, "lng": -52.816},
-			{"lat": -65.186, "lng": -52.080},
-			{"lat": -65.402, "lng": -52.970},
-			{"lat": -65.186, "lng": -53.344}
+			{"lat": -58.797, "lng": -51.922},
+			{"lat": -58.235, "lng": -49.966},
+			{"lat": -59.024, "lng": -49.736},
+			{"lat": -59.412, "lng": -51.153}
 		]
 	},
 	{
-		"title": "The Casino",
-		"notes": "The Casino is currently inactive.",
+		"title": "Great Ocean Bank",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": -50.986, "lng": 12.406},
-			{"lat": -51.849, "lng": 14.548},
-			{"lat": -53.409, "lng": 12.911},
-			{"lat": -52.447, "lng": 10.442},
-			{"lat": -51.947, "lng": 11.181},
-			{"lat": -51.339, "lng": 12.015}
+			{"lat": -45.484, "lng": -100.459},
+			{"lat": -45.475, "lng": -101.158},
+			{"lat": -45.982, "lng": -101.268},
+			{"lat": -46.044, "lng": -100.502}
+		]
+	},
+	{
+		"title": "Sandy Bank",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 15.921, "lng": 18.690},
+			{"lat": 15.889, "lng": 19.997},
+			{"lat": 15.360, "lng": 20.008},
+			{"lat": 15.371, "lng": 18.679}
 		]
 	},
 	{
 		"title": "The City Vault",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
