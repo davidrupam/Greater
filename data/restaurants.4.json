@@ -1,32 +1,44 @@
 [
 	{
 		"title": "Bean Machine",
-		"notes": "Senior Buns is a chain of fast-food restaurants specializing in hamburgers.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Snr._Buns",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -63.219, "lng": -30.462},
-			{"lat": -63.219, "lng": -29.374},
-			{"lat": -64.364, "lng": -29.352},
-			{"lat": -64.082, "lng": -29.825},
-			{"lat": -63.773, "lng": -30.341},
-			{"lat": -63.500, "lng": -30.506}
+			{"lat": -48.422, "lng": -33.641},
+			{"lat": -48.582, "lng": -30.740},
+			{"lat": -49.816, "lng": -30.740},
+			{"lat": -49.816, "lng": -33.553}
 		]
 	},
 	{
-		"title": "Maldini's Pizzeria",
-		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
+		"title": "Sushi",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -65.419, "lng": -33.103},
-			{"lat": -65.419, "lng": -31.476},
-			{"lat": -66.087, "lng": -31.476},
-			{"lat": -66.087, "lng": -33.103}
+			{"lat": -46.872, "lng": -20.355},
+			{"lat": -47.943, "lng": -20.289},
+			{"lat": -48.031, "lng": -18.619},
+			{"lat": -46.932, "lng": -19.015}
+		]
+	},
+	{
+		"title": "Pizza This",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -56.075, "lng": -12.519},
+			{"lat": -56.344, "lng": -11.222},
+			{"lat": -57.016, "lng": -11.690},
+			{"lat": -56.758, "lng": -13.075}
 		]
 	},
 	{
