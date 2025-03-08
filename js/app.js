@@ -130,7 +130,7 @@ $(function() {
 			name: 'General',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Neighborhoods',
+					name: 'Territory Zones',
 					icon: 'radar/radar_warehouse.png',
 					enabled: false,
 					url: 'data/neighborhoods.json',
@@ -159,7 +159,7 @@ $(function() {
 			name: 'Gang',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Zones',
+					name: 'Zone Holders',
 					icon: 'General/wall-breach.png',
 					enabled: true,
 					url: 'data/territories.4.json',
