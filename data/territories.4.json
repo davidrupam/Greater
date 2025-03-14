@@ -25,20 +25,16 @@
 		]
 	},
 	{
-		"title": "Bolingbroke Penitentiary",
-		"notes": "",
-		"order": 1,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"title": "Mirror Park",
+		"notes": "Holding by Chang Gang",
+		"order": 0,
+		"strokecolor": "3b3b3b",
+		"fillcolor": "3b3b3b",
 		"latlngarray": [
-			{"lat": 19.045, "lng": 30.489},
-			{"lat": 19.045, "lng": 39.759},
-			{"lat": 9.599, "lng": 39.759},
-			{"lat": 9.599, "lng": 39.366},
-			{"lat": 6.778, "lng": 39.366},
-			{"lat": 6.778, "lng": 37.705},
-			{"lat": 5.784, "lng": 37.705},
-			{"lat": 5.784, "lng": 30.489}
+			{"lat": -57.669, "lng": 10.272},
+			{"lat": -57.669, "lng": 25.338},
+			{"lat": -65.079, "lng": 25.338},
+			{"lat": -65.079, "lng": 10.272}
 		]
 	}		
 ]
